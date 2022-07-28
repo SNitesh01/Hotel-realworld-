@@ -1,0 +1,52 @@
+{
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@date-io/date-fns": "^2.14.0",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@fortawesome/fontawesome-common-types": "^6.1.1",
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "@mui/lab": "^5.0.0-alpha.85",
+    "@mui/material": "^5.8.3",
+    "@mui/styled-engine-sc": "^5.8.0",
+    "@reduxjs/toolkit": "^1.8.2",
+    "@types/react-fontawesome": "^1.6.5",
+    "axios": "^0.27.2",
+    "crypto-js": "^4.1.1",
+    "js-sha256": "^0.9.0",
+    "materialui-daterange-picker": "^1.1.92",
+    "moment": "^2.29.3",
+    "next": "latest",
+    "next-auth": "^4.8.0",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-redux": "^8.0.2",
+    "react-simple-image-slider": "^2.4.1",
+    "react-slick": "^0.29.0",
+    "redux": "^4.2.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.35",
+    "@types/react": "18.0.9",
+    "@types/react-dom": "18.0.5",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24",
+    "typescript": "4.7.2"
+  },
+  "name": "client",
+  "description": "This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "author": ""
+}
