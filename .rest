@@ -1,0 +1,9 @@
+POST http://143.110.242.224:9876/api/user/signup
+Content-Type: application/json
+Accept: application/json
+
+{
+    "username": "Gurvir Singh",
+    "email": "fm852369741@gmail.com",
+    "password": "dummypassword"
+}
